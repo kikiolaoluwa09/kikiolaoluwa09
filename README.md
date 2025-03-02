@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Email:adeniran.kikiolaoluwa0409@gmail.com
 - 😄 Pronouns: ...him/her
-- ⚡ Fun fact: ... I love games and anime 
+- ⚡ Fun fact: ... I love games, anime and learning new skills 
 
 <!---
 kikiolaoluwa09/kikiolaoluwa09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

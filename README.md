@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kikiolaoluwa
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...reactjs
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Frontend 
+- 💞️ I’m looking to collaborate on ... projects particularly open source 
 - 📫 How to reach me ...Email:adeniran.kikiolaoluwa0409@gmail.com
 - 😄 Pronouns: ...him/her
 - ⚡ Fun fact: ... I love games, anime and learning new skills 

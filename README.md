@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kikiolaoluwa</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-- 🌱 I’m currently learning **Frontend frameworks like**
+- 🌱 I’m currently learning **Frontend frameworks like react and tailwindcss**
 
 - 📫 How to reach me **adeniran.kikiolaoluwa0409@gmail.com or kikola0409@gmail.com**
 

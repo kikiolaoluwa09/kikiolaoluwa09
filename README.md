@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kikiolaoluwa</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F6B8D&background=67FF6000&width=435&lines=Hi+%2C+I'm+Kikiolaoluwa+;CS+student+at+Landmark+university;Mobile+and+Frontend+developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **Frontend frameworks like react and tailwindcss**
 

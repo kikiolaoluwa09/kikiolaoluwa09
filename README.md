@@ -76,17 +76,6 @@
 
 ---
 
-### 🎮 Contribution Graph  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kikiolaoluwa09/kikiolaoluwa09/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kikiolaoluwa09/kikiolaoluwa09/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/kikiolaoluwa09/kikiolaoluwa09/output/github-contribution-grid-snake.svg" />
-</picture>
-
-
-
----
-
 <p align="center">
   <em>“Code is not just logic — it’s creativity expressed through syntax.”</em><br/>
   ✨ <strong>Designed & built with passion by Kikiolaoluwa Adeniran</strong> ✨

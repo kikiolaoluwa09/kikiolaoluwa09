@@ -3,9 +3,9 @@
 --- 
 
 ### 👨‍💻 About Me  
-- 🌱 I’m currently learning **modern frontend frameworks** like **React** and **TailwindCSS**  
+- 🌱 I’m constantly learning new technologies
 - 💡 I love building **responsive**, **accessible**, and **scalable** web and mobile applications  
-- 📫 You can reach me at **adeniran.kikiolaoluwa0409@gmail.com** or **kikola0409@gmail.com**  
+- 📫 You can reach me at **adeniran.kikiolaoluwa0409@gmail.com** 
 - 📄 Check out my experience and projects on [**LinkedIn**](https://www.linkedin.com/in/kikiolaoluwa-adeniran-bb1b91336/)  
 - ⚡ Fun fact: *I enjoy transforming complex problems into elegant, user-friendly digital solutions.*
 

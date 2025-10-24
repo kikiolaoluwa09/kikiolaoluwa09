@@ -1,6 +1,5 @@
 <!-- ✨ Animated Intro Section -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Kikiolaoluwa+%E2%80%94+welcome+to+my+GitHub!;+CS+student+%40+Landmark+University+%F0%9F%92%BB;%F0%9F%92%BB+Frontend+%26+Mobile+Developer;%F0%9F%9A%80+Passionate+about+designing+and+developing+stunning%2C+user-friendly+digital+experiences+%F0%9F%8C%8D%E2%9C%A8)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Kikiolaoluwa+%E2%80%94+welcome+;+CS+student+%40+Landmark+University+%F0%9F%92%BB;%F0%9F%92%BB+Frontend+%26+Mobile+Developer)](https://git.io/typing-svg)
 ---
 
 ### 👨‍💻 About Me  
